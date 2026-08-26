@@ -3,6 +3,7 @@ streamlit==1.62.0
 
 # ==== Audio input ====
 yt-dlp==2026.8.19
+bgutil-ytdlp-pot-provider
 pydub==0.25.1
 audioop-lts==0.2.2
 ffmpeg-python==0.2.0
