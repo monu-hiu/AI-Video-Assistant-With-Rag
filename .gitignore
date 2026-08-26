@@ -1,0 +1,22 @@
+@"
+.env
+.env.*
+!.env.example
+
+.venv/
+__pycache__/
+*.pyc
+
+downloads/
+downloades/
+
+vector_db/
+
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+.vscode/
+.idea/
+"@ | Set-Content .gitignore
